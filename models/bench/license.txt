@@ -1,0 +1,11 @@
+Model Information:
+* title:	Скамья садовая. Bench.
+* source:	https://sketchfab.com/3d-models/bench-dbcd32bbf4924cfca19f87c386cb17ad
+* author:	dima051983 (https://sketchfab.com/dima051983)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Скамья садовая. Bench." (https://sketchfab.com/3d-models/bench-dbcd32bbf4924cfca19f87c386cb17ad) by dima051983 (https://sketchfab.com/dima051983) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

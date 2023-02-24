@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Six - Little Nightmares
+* source:	https://sketchfab.com/3d-models/low-poly-six-little-nightmares-f6bee04392a045e1bcda9f60bdf4a399
+* author:	JustNeki (https://sketchfab.com/JustNeki)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Six - Little Nightmares" (https://sketchfab.com/3d-models/low-poly-six-little-nightmares-f6bee04392a045e1bcda9f60bdf4a399) by JustNeki (https://sketchfab.com/JustNeki) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
